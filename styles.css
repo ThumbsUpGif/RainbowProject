@@ -35,3 +35,10 @@ body {
     background-color: yellow;
     color:  rgb(167, 167, 1);
 }
+
+.green_background {
+    width: vw;
+    height: 200px;
+    background-color: green;
+    color:  rgb(0, 71, 0);
+}
