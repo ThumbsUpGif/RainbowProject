@@ -28,3 +28,10 @@ body {
     background-color: orange;
     color: rgb(152, 99, 2);
 }
+
+.yellow_background {
+    width: vw;
+    height: 200px;
+    background-color: yellow;
+    color:  rgb(167, 167, 1);
+}
