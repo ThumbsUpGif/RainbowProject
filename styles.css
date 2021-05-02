@@ -10,35 +10,49 @@ body {
 .colourname {
     position: absolute;
     left: 50%;
-    margin-top: 60px;
+    margin-top: 25px;
     /* top: 50%; */
     transform: translate(-50%, 0%);
 }
 
 .red_background {
     width: vw;
-    height: 200px;
+    height: 120px;
     background-color: red;
     color: rgb(150, 0, 0);
 }
 
 .orange_background {
     width: vw;
-    height: 200px;
+    height: 120px;
     background-color: orange;
     color: rgb(152, 99, 2);
 }
 
 .yellow_background {
     width: vw;
-    height: 200px;
+    height: 120px;
     background-color: yellow;
     color:  rgb(167, 167, 1);
 }
 
 .green_background {
     width: vw;
-    height: 200px;
+    height: 120px;
     background-color: green;
     color:  rgb(0, 71, 0);
+}
+
+.blue_background {
+    width: vw;
+    height: 120px;
+    background-color: blue;
+    color:   rgb(2, 2, 125);
+}
+
+.indigo_background {
+    width: vw;
+    height: 120px; 
+    background-color: indigo;
+    color: rgb(42, 1, 71);
 }
